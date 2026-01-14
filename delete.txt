@@ -1,0 +1,3 @@
+git filter-repo --invert-paths --path .env
+git push --force --all
+git push --force --tags
